@@ -964,8 +964,8 @@
                                     <goal>install-node-and-npm</goal>
                                 </goals>
                                 <configuration>
-                                    <nodeVersion>v6.17.1</nodeVersion>
-                                    <npmVersion>3.10.10</npmVersion>
+                                    <nodeVersion>v12.20.0</nodeVersion>
+                                    <npmVersion>6.14.8</npmVersion>
                                 </configuration>
                             </execution>
                             <execution>
@@ -1049,8 +1049,8 @@
                                     <goal>install-node-and-npm</goal>
                                 </goals>
                                 <configuration>
-                                    <nodeVersion>v6.17.1</nodeVersion>
-                                    <npmVersion>3.10.10</npmVersion>
+                                    <nodeVersion>v12.20.0</nodeVersion>
+                                    <npmVersion>6.14.8</npmVersion>
                                 </configuration>
                             </execution>
                             <execution>
